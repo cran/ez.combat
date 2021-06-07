@@ -1,0 +1,6 @@
+The standard version of this code is released under the Artistic License 2.0.  
+
+The source code distributed here is a modification of the ComBat function code from the sva package that can be found at:  
+**Standard Version**: https://bioconductor.org/packages/release/bioc/html/sva.html  
+**Prior Modified Version**: https://github.com/Jfortin1/ComBatHarmonization  
+All prior versions were released under the Artistic License 2.0, which permits distribution of modifications, as it bears a name different from prior versions (e.g., neurocombat as of 2021-6-2) and the modified version is distributed under the same license.  

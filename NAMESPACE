@@ -1,0 +1,2 @@
+export("ez.combat")
+import("stats")

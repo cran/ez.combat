@@ -1,0 +1,12 @@
+e6028bfe7e0c3efa4732b9b5d0084acf *DESCRIPTION
+0f1a3bb85eef2db7a23749fbcdecb26f *LICENSE.note
+c5f9fb74e4a1d95c5b83989079d54980 *NAMESPACE
+fa3ed85a0fdb5eb1edb818cce12e3d71 *R/aprior.R
+ecd233c27f9622287427ea533bd48a38 *R/bprior.R
+f82ace58c943b9091857511c554a5ce4 *R/ez.combat.R
+db60ee1bb9bd4401b2063c9bbd6f405f *R/it.sol.R
+e205764ca40bcc6943e2a1821f36b94a *R/postmean.R
+e63579d8635149f07b0dd8ebb435fbeb *R/postvar.R
+e909870191d476eae640fdafb1e443e7 *README.md
+b96ea34828d4b623688ee9bfd905e938 *man/ez.combat.Rd
+e02051d4b040b796185a65bcbd4af651 *man/pkg-internal.Rd
